@@ -1,4 +1,3 @@
-# karel update
 import '@servicenow/sdk/global'
 import { BusinessRule } from '@servicenow/sdk/core'
 import { rejectInactiveTask } from '../../server/business-rules/reject-inactive-task'
